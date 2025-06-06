@@ -1,0 +1,7 @@
+
+services:
+  - type: web
+    name: gymva-api
+    env: dotnet
+    buildCommand: dotnet build
+    startCommand: dotnet GymvaApi.dll
