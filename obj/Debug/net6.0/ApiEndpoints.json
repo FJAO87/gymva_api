@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GymvaApi.Controllers.LoginClienteController",
+    "Method": "Post",
+    "RelativePath": "api/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GymvaApi.Controllers.LoginClienteController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

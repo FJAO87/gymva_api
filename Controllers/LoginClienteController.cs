@@ -1,7 +1,7 @@
-
 using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 using BCrypt.Net;
+using Microsoft.Extensions.Configuration;
 
 namespace GymvaApi.Controllers
 {

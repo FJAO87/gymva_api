@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GymvaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c78348c483e9e840d19e38139e7852dd01d025b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd06477a996fdb2c33139e9ac762822111e1f043")]
 [assembly: System.Reflection.AssemblyProductAttribute("GymvaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GymvaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
