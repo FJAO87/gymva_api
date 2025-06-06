@@ -1,0 +1,7 @@
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.AssemblyInfo.cs
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anton\Desktop\Ultimo\ARCHIVOS FINALES\gymva-api-clean\obj\Debug\net6.0\GymvaApi.sourcelink.json
